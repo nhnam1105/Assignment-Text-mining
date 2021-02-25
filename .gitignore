@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 # git checkpoints
 .ipynb_checkpoints
+.DS_Store
